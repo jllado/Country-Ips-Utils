@@ -1,4 +1,4 @@
 Country-Ips-Utils
 =================
 
-Java utils lib for download and list country ips from a CSV file.
+Java library for download a countries ips list from a CSV file.
