@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>juanllado</groupId>
-    <artifactId>country_ips_updater</artifactId>
+    <artifactId>country_ips_utils</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>country_ips_updater</name>
+    <name>country_ips_utils</name>
     <url>http://maven.apache.org</url>
 
     <properties>
